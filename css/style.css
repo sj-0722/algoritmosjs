@@ -1,0 +1,26 @@
+body{
+    background: #58a2af;
+    color: #192235;
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+button{
+    padding: 6px 20px;
+    background: #000000;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 26px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .5s;
+}
+
+button:hover{
+    background: transparent;
+    color: #1d211e;
+    border: 1px solid #5f95bc;
+    border-radius: 0;
+}
